@@ -1,0 +1,31 @@
+.buttonAction{
+  background-color: red;
+  color : white;
+  width: 50px;
+  height : 50px;
+  border-radius : 50%;
+  outline : none;
+  position: absolute;
+  z-index: -1;
+  transition: 0.5s;
+  transform: translate(-70px, -10px);
+}
+
+.buttonred{
+  transform: translateX(0px);
+  z-index: 1;
+}
+.buttongreen{
+  transform: translateX(60px);
+  z-index: 1;
+}
+.buttonblue{
+  transform: translateX(120px);
+  z-index: 1;
+}
+
+.startAnimationButton{
+  transform: scale(40);
+  z-index: 2;
+}
+

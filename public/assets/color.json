@@ -1,0 +1,14 @@
+{
+  "green": {
+    "title" : "Vert",
+    "description" : "Le vert est un champ chromatique regroupant les couleurs situées sur le cercle chromatique entre le jaune et le bleu. Contrairement à d'autres couleurs, qui changent de nom quand elles sont lavées de blanc ou rabattues avec du noir, comme le rouge qui devient rose ou brun, le vert conserve son nom, vert pâle ou vert foncé, vert vif ou vert grisâtre."
+  },
+  "red" : {
+    "title" : "Rouge",
+    "description" : "Le rouge est un champ chromatique regroupant les couleurs vives situées sur le cercle chromatique entre l'orange et les pourpres. Lavé de blanc, le rouge devient rose, sombre, il s'appelle brun. Opposé au vert, il forme un des contrastes qui, avec celui entre le bleu et le jaune et celui entre le noir et le blanc, orientent la perception visuelle."
+  },
+  "blue" : {
+    "title" : "Bleu",
+    "description" : "Le bleu est un champ chromatique, regroupant les teintes rappelant celles du ciel ou de la mer par temps claira.\n\nOn rencontre des pierres, des oiseaux, des fleurs et des papillons bleus, mais les matières bleues sont moins fréquentes dans la nature que les vertes, les rouges et les jaunes"
+  }
+}
